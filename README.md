@@ -17,7 +17,7 @@ My journey into coding began through my love of video games, modding and the cre
 
 ### ⚙️ My Technical Skills
 
-<p>
+<div align="center">
   <a href="https://www.oracle.com/java/" target="_blank">
     <img height="24" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   </a>
@@ -60,7 +60,7 @@ My journey into coding began through my love of video games, modding and the cre
   <a href="https://code.visualstudio.com/" target="_blank">
     <img height="24" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   </a>
-</p>
+</div>
 
 
 
