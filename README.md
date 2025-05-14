@@ -21,6 +21,9 @@ My journey into coding began through my love of video games, modding and the cre
   <a href="https://www.oracle.com/java/" target="_blank">
     <img height="24" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img height="24" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img height="24" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   </a>
@@ -48,14 +51,11 @@ My journey into coding began through my love of video games, modding and the cre
   <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank">
     <img height="24" src="https://img.shields.io/badge/Xray-2E9FFF?style=flat-square"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  </a>
   <a href="https://github.com/" target="_blank">
     <img height="24" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img height="24" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img height="24" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img height="24" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
