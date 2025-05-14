@@ -30,9 +30,9 @@ My journey into coding began through my love of video games, modding and the cre
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrtnifique&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrtnifique&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="Mrtnifique's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrtnifique&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrtnifique&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 
