@@ -9,7 +9,7 @@
 
 ### About Me
 
-My name is **Murat Kılınçarslan**. I studied Mechanical Engineering for three years before finaly deciding that my true passion lies in technology, specifically in how systems work under the hood and how they can be improved.
+My name is **Murat Kılınçarslan**. I studied Mechanical Engineering before finaly deciding that my true passion lies in technology, specifically in how systems work under the hood and how they can be improved.
 
 My journey into coding began through my love of video games, modding and the creative process of making them. That interest evolved into a deep commitment to software testing, automation, and continuous improvement. Today, I specialize in writing robust automation frameworks and ensuring software behaves as intended in fast paced, agile environments.
 
